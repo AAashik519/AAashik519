@@ -13,7 +13,7 @@
   <img align="center" alt="Ashik-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
   <img align="center" alt="Ashik-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
   <img align="center" alt="Ashik-material ui" height="30" width="40" src="https://png.pngitem.com/pimgs/s/577-5779757_react-material-ui-logo-hd-png-download.png">
-  <img align="center" alt="Ashik-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+  <img align="center" alt="Ashik-C" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/c-characters-character-alphabet-letter-36041.png">
   <img align="right" alt="Ashik-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
